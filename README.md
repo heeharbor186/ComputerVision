@@ -1,2 +1,2 @@
 # ComputerVision
-detect aging with a face image 
+detect aging with face image dataset
